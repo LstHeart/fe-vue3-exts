@@ -15,17 +15,27 @@
   "categories": [
     "Extension Packs"
   ],
+  "scripts": {
+    "prepare": "husky install",
+    "release": "standard-version -a"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.4",
+    "@commitlint/config-conventional": "^16.2.4",
+    "husky": "^7.0.4",
+    "standard-version": "^9.3.2",
+    "vsce": "^2.7.0"
+  },
   "extensionPack": [
-    "eamodio.gitlens",
-    "mhutchie.git-graph",
-    "Gruntfuggly.todo-tree",
-    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "Vue.vscode-typescript-vue-plugin",
+    "Vue.volar",
     "ChakrounAnas.turbo-console-log",
-    "naumovs.color-highlight",
-    "EditorConfig.EditorConfig",
-    "antfu.file-nesting",
-    "cweijan.vscode-office",
-    "tomoki1207.selectline-statusbar",
-    "iceworks-team.iceworks-time-master"
+    "hollowtree.vue-snippets",
+    "dariofuzinato.vue-peek",
+    "andersonmfjr.vue-jumptotag",
+    "mrmlnc.vscode-less",
+    "ant-design-vue.vscode-ant-design-vue-helper"
   ]
 }

@@ -2,7 +2,6 @@
 
 vue3+typescript+ant-design-vue开发常用vscode插件合集
 
----
 
 vue3常用插件
 
@@ -18,7 +17,6 @@ vue3常用插件
 | Less IntelliSense             | mrmlnc.vscode-less                          | Advanced autocompletion and refactoring support for Less        |
 | Ant Design Vue helper         | ant-design-vue.vscode-ant-design-vue-helper | A vscode extension for Ant-Design-Vue                           |
 
----
 
 ## For more information
 
