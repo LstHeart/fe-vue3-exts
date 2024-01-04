@@ -1,19 +1,22 @@
 # fe-basic-exts
 
+vue3+typescript+ant-design-vue开发常用vscode插件合集
 
-| Name                           | ID                                    | Description                                                                                                                                                                                                                                                         |
-| ------------------------------ | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GitLens — Git supercharged    | eamodio.gitlens                       | Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more |
-| Git Graph                      | mhutchie.git-graph                    | View a Git Graph of your repository, and perform Git actions from the graph.                                                                                                                                                                                        |
-| Todo Tree                      | Gruntfuggly.todo-tree                 | Show TODO, FIXME, etc. comment tags in a tree view                                                                                                                                                                                                                  |
-| Code Spell Checker             | streetsidesoftware.code-spell-checker | Spelling checker for source code                                                                                                                                                                                                                                    |
-| Turbo Console Log              | ChakrounAnas.turbo-console-log        | Automating the process of writing meaningful log messages.                                                                                                                                                                                                          |
-| Color Highlight                | naumovs.color-highlight               | Highlight web colors in your editor                                                                                                                                                                                                                                 |
-| EditorConfig for VS Code       | EditorConfig.EditorConfig             | EditorConfig Support for Visual Studio Code                                                                                                                                                                                                                         |
-| File Nesting Updater           | antfu.file-nesting                    | Auto updating for Anthony's file nesting config                                                                                                                                                                                                                     |
-| Office Viewer(Markdown Editor) | cweijan.vscode-office                 | View word,excel files and using WYSIWYG editor for markdown.                                                                                                                                                                                                        |
-| Select Line Status Bar         | tomoki1207.selectline-statusbar       | Displays selected lines count in status bar                                                                                                                                                                                                                         |
-| Time Master                    | iceworks-team.iceworks-time-master    | Metrics, insights, and time tracking automatically generated from your programming activity.                                                                                                                                                                        |
+---
+
+vue3常用插件
+
+| Name                          | ID                                          | Description                                                     |
+| ----------------------------- | ------------------------------------------- | --------------------------------------------------------------- |
+| ESLint                        | dbaeumer.vscode-eslint                      | Integrates ESLint JavaScript into VS Code.                      |
+| Prettier - Code formatter     | esbenp.prettier-vscode                      | Code formatter using prettier                                   |
+| TypeScript Vue Plugin (Volar) | Vue.vscode-typescript-vue-plugin            | Vue Plugin for TypeScript server                                |
+| Vue Language Features (Volar) | Vue.volar                                   | Language support for Vue 3                                      |
+| Vue 3 Snippets                | hollowtree.vue-snippets                     | A Vue.js 3 And Vue.js 2 Code Snippets Extension                 |
+| Vue Peek                      | dariofuzinato.vue-peek                      | Allows peek and goto definition for Vue single-file components. |
+| Vue Jump to Tag               | andersonmfjr.vue-jumptotag                  | Easily jump to script, template, and style tags in .vue files   |
+| Less IntelliSense             | mrmlnc.vscode-less                          | Advanced autocompletion and refactoring support for Less        |
+| Ant Design Vue helper         | ant-design-vue.vscode-ant-design-vue-helper | A vscode extension for Ant-Design-Vue                           |
 
 ---
 
